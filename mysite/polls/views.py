@@ -13,3 +13,6 @@ def detail(request, question_id):
 def result(request, question_id):
     response = "You're looking at the results of question {}."
     return HttpResponse(response.format(question_id))
+
+def vote(request, question_id):
+    return HttpResponse("You're voting on {}.".format(question_id))
