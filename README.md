@@ -9,3 +9,7 @@ My personal study project for Django.
 - create venv for this project by running `python -m venv venv`
 - To activate venv, `source ./venv/bin/activate`
 - To deactivate venv, `deactivate`
+
+### Database Diagram (automatically exported from TablePlus)
+
+![diagram](./mysite/diagram.svg)
