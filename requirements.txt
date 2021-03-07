@@ -2,7 +2,7 @@ asgiref==3.3.1
 autopep8==1.5.5
 coverage==5.5
 Django==3.1.7
-django-polls==0.1
+./django-polls
 pycodestyle==2.6.0
 pytz==2021.1
 rope==0.18.0
