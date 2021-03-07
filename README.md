@@ -61,6 +61,18 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
+## To run lint
+
+```sh
+pylint ./django-polls
+```
+
+## To auto-fix lint problems
+
+```sh
+autopep8 -i -r ./django-polls
+```
+
 ### Database Diagram (automatically exported from TablePlus)
 
 ![diagram](./mysite/diagram.svg)

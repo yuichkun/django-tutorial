@@ -1,8 +1,10 @@
 {
   "cSpell.words": [
+    "autopep",
     "createsuperuser",
     "makemigrations",
     "mysite",
+    "pylint",
     "sqlmigrate"
   ],
   "python.linting.pylintEnabled": true,
